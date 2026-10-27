@@ -112,6 +112,19 @@ the amount to pay.
 | **Continuity** | Encrypted backups leave the server every day. Dual network egress to external services, with automatic failover. |
 | **Operations** | The team is alerted on every withdrawal and every authorization request. An alarm fires if the system stops receiving payments when it should. |
 
+## Built with
+
+| Language | Where | Approximate size |
+|---|---|---|
+| **Python** | The application: payments, reconciliation, notifications, dashboard, bot and administration | 25,000 lines |
+| **Python** | The more than 140 automated checks that run before every change | 30,000 lines |
+| **HTML, CSS and JavaScript** | 68 screens: public site, merchant dashboard, administration and checkout page | 7,200 lines |
+| **PHP** | The module for hosting billing platforms | 1,400 lines |
+| **SQL** | The payments database, with per-tenant isolation | |
+
+GitHub's language bar only measures the files in this repository, which is
+documentation.
+
 ## Results
 
 These are real figures, read from the platform itself. They exclude tests and
@@ -122,12 +135,6 @@ them every six hours.
 - **725 completed payments** as of 27-Oct-2026.
 - **USD 13,142 collected** as of 27-Oct-2026.
 - On the digital-dollar rail, no funds are ever held in custody, by design.
-
-## What is not in this repository
-
-The source code is private: it is production software with real merchants
-getting paid through it. This repository documents the system's capabilities
-and architecture.
 
 ## Contact
 

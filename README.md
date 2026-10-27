@@ -110,6 +110,19 @@ código del pago, igual a lo que hay que pagar.
 | **Continuidad** | Copias de seguridad cifradas que salen cada día del servidor. Salida de red doble hacia los servicios externos, con conmutación automática. |
 | **Operación** | Avisos al equipo por cada retiro y cada solicitud de autorización. Alarma si el sistema deja de recibir pagos cuando debería. |
 
+## Construido con
+
+| Lenguaje | Dónde | Tamaño aproximado |
+|---|---|---|
+| **Python** | La aplicación: cobros, conciliación, avisos, panel, bot y administración | 25.000 líneas |
+| **Python** | Las más de 140 comprobaciones automáticas que se pasan antes de cada cambio | 30.000 líneas |
+| **HTML, CSS y JavaScript** | 68 pantallas: área pública, panel del comercio, administración y página de pago | 7.200 líneas |
+| **PHP** | El módulo para plataformas de facturación de hosting | 1.400 líneas |
+| **SQL** | La base de cobros, con aislamiento por inquilino | |
+
+La barra de lenguajes de GitHub mide solo los ficheros de este repositorio, que
+es documentación.
+
 ## Resultados
 
 Son cifras reales y se leen de la propia plataforma. No cuentan pruebas ni
@@ -120,12 +133,6 @@ las actualiza sola cada seis horas.
 - **13.142 USD cobrados** a 27-oct-2026.
 - En la vía en dólar digital, ningún fondo queda en custodia: es así por
   diseño.
-
-## Qué no está en este repositorio
-
-El código fuente es privado: es software en producción con comercios reales
-cobrando con él. Este repositorio documenta las capacidades y la arquitectura
-del sistema.
 
 ## Contacto
 
