@@ -139,8 +139,6 @@ them every six hours.
 
 ## Contact
 
-Rafael Blanco, for Kusarive Solutions LLC
-
 - Web: [pagosbi.com](https://pagosbi.com)
 - Email: info@pagosbi.com
 - WhatsApp: [+58 422 258 0175](https://wa.me/584222580175)
