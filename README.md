@@ -144,4 +144,10 @@ Rafael Blanco, para Kusarive Solutions LLC
 - WhatsApp: [+58 422 258 0175](https://wa.me/584222580175)
 - Presentación: [PDF de 11 diapositivas](presentacion/PagosBI-presentacion.pdf)
 
+## Novedades
+
+- **27-oct-2026** · Publicación de la vitrina, con su presentación en PDF descargable.
+
+Registro completo: [CHANGELOG.md](CHANGELOG.md).
+
 © 2026 Kusarive Solutions LLC. Ver [LICENSE](LICENSE).
