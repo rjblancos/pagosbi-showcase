@@ -8,7 +8,7 @@
 **Proprietary system** by Kusarive Solutions LLC ·
 [Versión en español](README.md) ·
 [Presentation page](https://rjblancos.github.io/pagosbi-showcase/) ·
-**[Download the presentation as PDF](presentacion/PagosBI-presentacion.pdf)** (15 slides, in Spanish)
+**[Download the presentation as PDF](presentacion/PagosBI-presentacion.pdf)** (11 slides, in Spanish)
 
 ---
 
@@ -144,6 +144,6 @@ Rafael Blanco, for Kusarive Solutions LLC
 - Web: [pagosbi.com](https://pagosbi.com)
 - Email: info@pagosbi.com
 - WhatsApp: [+58 422 258 0175](https://wa.me/584222580175)
-- Presentation: [15-slide PDF](presentacion/PagosBI-presentacion.pdf) (in Spanish)
+- Presentation: [11-slide PDF](presentacion/PagosBI-presentacion.pdf) (in Spanish)
 
 © 2026 Kusarive Solutions LLC. See [LICENSE](LICENSE).
